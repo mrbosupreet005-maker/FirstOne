@@ -1,0 +1,13 @@
+#cards
+{
+    display: flex;
+}
+.card-img
+{
+    width: 100vh;
+    height: 200px;
+}
+.vdo-sec
+{
+    display: flex;
+}
